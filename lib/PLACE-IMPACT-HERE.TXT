@@ -1,0 +1,6 @@
+Place the Impact engine folder here. If you download Impact.js, you'll get this:
+
+impact/lib/
+impact/lib/impact/ <- you only need this
+impact/media/
+impact/tools/
