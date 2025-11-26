@@ -1,11 +1,11 @@
 Tetris with Impact.js
 =============
 
-A Tetris game that uses the Impact.js game engine written in JavaScript.
+A Tetris game that uses the [Impact.js game engine](https://github.com/phoboslab/Impact) written in JavaScript.
 
-Demo: http://www.ntaso.com/tetris/
+Demo: https://www.cmaas.de/tetris/
 
-Tutorial: http://www.ntaso.com/tutorial-tetris-with-impact-js/ 
+Tutorial: https://www.cmaas.de/tutorial-tetris-with-impact-js
 
 ### How to Install
 
